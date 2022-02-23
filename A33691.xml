@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to an ansvver from a friend, to the apology for the English nation, that the trade to the East-Indies and Africa should be free.</title>
+            <title>Reply to an answer from a friend, to the apology for the English nation.</title>
+            <author>Coke, Roger, fl. 1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33691</idno>
+            <idno type="STC">Wing C4980A</idno>
+            <idno type="STC">ESTC R214301</idno>
+            <idno type="EEBO-CITATION">99826498</idno>
+            <idno type="PROQUEST">99826498</idno>
+            <idno type="VID">30901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30901)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1775:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to an ansvver from a friend, to the apology for the English nation, that the trade to the East-Indies and Africa should be free.</title>
+                  <title>Reply to an answer from a friend, to the apology for the English nation.</title>
+                  <author>Coke, Roger, fl. 1696.</author>
+               </titleStmt>
+               <extent>67 [i.e. 7], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, in the year, 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Roger Coke.</note>
+                  <note>Page 7 misnumbered 67.</note>
+                  <note>In reply to an untraced item.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Trading companies --  Early works to 1800.</term>
+               <term>Customs administration --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30901:1" rendition="simple:additions"/>
+            <p>A REPLY TO AN ANSWER FROM A FRIEND, TO THE APOLOGY FOR THE Engliſh Nation, That the TRADE TO THE <hi>Eaſt-Indies and Africa</hi> Should be FREE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, in the Year, 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:30901:2"/>
+            <pb n="3" facs="tcp:30901:2"/>
+            <head>A Reply to an Anſwer from a Friend, to the Apology for the Engliſh Nation; that the Trade to the <hi>Eaſt-Indies</hi> and <hi>Africa</hi> ſhould be free.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WHen I deſired your Opinion of the Apology for the Engliſh Nation, <hi>&amp;c.</hi> I expected you would have firſt anſwered where I began; <hi>viz.</hi> That all Nations, as well as the Inhabitants of Nations, by Equal Right or the Law of Nature, may entertain Trade and Commerce with one a<g ref="char:EOLhyphen"/>nother: and if in Times of Peace Humane Laws ſhall debar Subjects of this Right, this is practiſing Iniquity by a Law: And that you would have Objected againſt the Reaſons, which the Parliament gave 3 <hi>Jac. C.</hi> 6. for the freedom of the Engliſh in the Spaniſh Trade; or that theſe Reaſons did not hold in the <hi>Eaſt-India</hi> Trade, but of theſe you ſay not one word<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <hi>You ſay when you were in</hi> London, <hi>all Men Agreed the</hi> Eaſt-India <hi>Trade could not be driven, without a Company, becauſe of the Power of the</hi> Dutch <hi>in thoſe Seas.</hi>
+            </p>
+            <p>I ſuppoſe you miſtake me in contending againſt a Company Exclu<g ref="char:EOLhyphen"/>ſive to all others<g ref="char:punc">▪</g> for it is not a Company I contend againſt; but the Excluſion of all others: For your ſeeming Reaſon of the <hi>Dutch</hi> power in the <hi>Eaſt-Indies,</hi> to neceſſitate a Trade by the <hi>Engliſh</hi> in a Company, it will not hold; unleſs you can make an <hi>Engliſh</hi> Company to be equal to the <hi>Dutch</hi> in power, which can never be hoped for; but if it could<g ref="char:punc">▪</g> it could never be by Excluding others, which might contribute to the Encreaſe of it.</p>
+            <p>For the Inſtance you give of the <hi>Turkey</hi> Trade; it hath no reſem<g ref="char:EOLhyphen"/>blance to the Trade in the <hi>Eaſt-Indies:</hi> For our Trade to <hi>Turkey,</hi> is up<g ref="char:EOLhyphen"/>on the Matter, but to one place, <hi>viz. Smyrna;</hi> whereas that which the Company call the <hi>Eaſt-India</hi> Trade, is to all the Parts on the Eaſt of <hi>Africa,</hi> and the Southern Parts of <hi>Aſia,</hi> to the North of <hi>China,</hi> with all
+<pb n="4" facs="tcp:30901:3"/> the Iſlands which lye in that vaſt Ocean; ſo that for ought is known Tenfold the Trade might be managed by the <hi>Engliſh</hi> there, if the Trade were free, than to <hi>Turky;</hi> which is impoſſible to be done by one Com<g ref="char:EOLhyphen"/>pany excluſive to all others; in the numerous and vaſt Dominions in thoſe parts of the World.</p>
+            <p>Beſides the Objection which you make of the <hi>Dutch</hi> power in thoſe Seas, to exclude all others but a Company is a Topick ſet up only by the Favourers of the <hi>Eaſt-India</hi> Company; for unleſs you ſuppoſe the <hi>Dutch</hi> power to he more than that of all the Princes of <hi>Africk, Aſia,</hi> and all the Iſlands in the vaſt Ocean, theſe cannot give Laws to them, all; and this is an Argument which the Company, themſelves do not be<g ref="char:EOLhyphen"/>lieve, for if granted, Interlopers could never Trade to the <hi>Eaſt-Indies,</hi> which is the greateſt fear the Company have.</p>
+            <p>But ſuppoſe all the Princes in <hi>Africk</hi> and <hi>Aſia</hi> could not protect the <hi>Engliſh</hi> in their Trade with them; yet ſure a King of <hi>England</hi> is not ſo faln from power, but that he is able to protect his Subjects in all their Juſt Trades from the Violences and Oppreſſions of the <hi>Dutch.</hi>
+            </p>
+            <p>
+               <hi>You ſay the Commons had reaſon to refer the Buſineſs of the Erecting a new</hi> Eaſt-India <hi>Company to the King, they having ſo little time to Sit.</hi>
+            </p>
+            <p>The Commons had buſied themſelves above four Months in Eſta<g ref="char:EOLhyphen"/>bliſhing this Company, more than in any thing elſe, and then threw it upon the King, who in the Circumſtances he is in, cannot attend it four days.</p>
+            <p>
+               <hi>But you ſay you doubt not but the Commons upon their next Sitting, will aſſume this Buſineſs again, and then will undoubtedly Blow up the preſent Com<g ref="char:EOLhyphen"/>pany.</hi> But this will be more ſtrange than to Vote an <hi>Eaſt-India</hi> Com<g ref="char:EOLhyphen"/>pany excluſive to all others, to be Eſtabliſhed by Act of Parliament; and then to throw it upon the King; and after to take it out of the power of the King.</p>
+            <p>But here you may ſee how Induſtriouſly Men purſue their Intereſt, without any regard to Juſtice or Prudence: For all this time in propa<g ref="char:EOLhyphen"/>gating an <hi>East India</hi> Company excluſive to other Men, no regard is had how the <hi>Engliſh</hi> might be ſecured from the Violences and Injuries of the <hi>Dutch</hi> in it; nor how it can be carried on by the <hi>Engliſh</hi> in the miſerable and diſtracted ſtate, the now Company have brought it to, with the <hi>Mogull, Sophy</hi> of <hi>Perſia,</hi> and King of <hi>Syam.</hi>
+            </p>
+            <p>The <hi>Dutch</hi> power in the <hi>Eaſt-Indies</hi> is vaſtly more than the <hi>Engliſh,</hi> yet to maintain this, they are at as vaſt Charges in maintaining it, ſo that where the <hi>Engliſh</hi> and <hi>Dutch</hi> Trade, with all the other Princes of the <hi>Indies, Perſia,</hi> or <hi>China,</hi> the <hi>Engliſh</hi> Trade is ſo much cheaper, as they are at leſs Charges in maintaining their Dominions, nor can it be ever hoped the <hi>Engliſh,</hi> with or without a Company can expel the <hi>Dutch</hi> out of their Dominions in the <hi>Eaſt-Indies.</hi>
+            </p>
+            <pb n="5" facs="tcp:30901:3"/>
+            <p>It's true, the <hi>Dutch</hi> have been as Injurious to this preſent Company (if Injuries can be done to ſuch a Company of Men) as the Company has been to the reſt of the <hi>Engliſh</hi> Nation: For beſides the Buſineſs of <hi>Amboyna;</hi> which was not in this Companies time; they Outed the Com<g ref="char:EOLhyphen"/>pany from <hi>Polloroon,</hi> where the Natives could not protect them, and was a principal cauſe of the ſecond <hi>Dutch</hi> War in King <hi>Charles</hi> the Se<g ref="char:EOLhyphen"/>cond's Reign: And by falſhood kept the Company from Trading to <hi>China</hi> and <hi>Japan,</hi> alledging the <hi>Engliſh</hi> were Chriſtians; and the King had Married the King of <hi>Portugal</hi>'s Daughter: (the <hi>Portuguez</hi> of all Na<g ref="char:EOLhyphen"/>tions being moſt deteſtible to the <hi>Chineſs;</hi>) and now by joining with the young King of <hi>Bantam</hi> againſt his Father; they keep the King Pri<g ref="char:EOLhyphen"/>ſoner, and make uſe of his Name, to expel the <hi>Engliſh</hi> from their Trade to <hi>Bantam</hi> for Pepper, ſo as the <hi>Engliſh</hi> are forced to Trade to the Weſt of <hi>Sumatra</hi> for Pepper, a moſt unhealthful place, where more <hi>Engliſh</hi> loſe their Lives, than ten times the Trade is worth, of which the Company have no regard, ſo as they could purchaſe a Pound of Pepper by the loſs of ten <hi>Engliſh</hi> Men: The unhealthineſs of this place being repreſented to Queen <hi>Elizabeth,</hi> ſhe forbid her Subjects Trading to <hi>Sumatra.</hi>
+            </p>
+            <p>In the ſecond <hi>Dutch</hi> War, the <hi>French</hi> joyned with King <hi>Charles</hi> againſt the <hi>Dutch;</hi> and thereby the <hi>Dutch</hi> were reduced ſo low, as they were in the War with the Rump Parliament; but the Parliament dreading the Conſequences, Petitioned the King to make a ſeparate Peace with the <hi>Dutch,</hi> without including the <hi>French;</hi> but this prevailed but little, till the <hi>Spaniſh</hi> Ambaſſador, the Marqueſs <hi>Del Freſno</hi> interpoſed, threat<g ref="char:EOLhyphen"/>ning other ways, <hi>Spain</hi> would break with <hi>England,</hi> and then the King made a ſeparate haſty Peace with the <hi>Dutch,</hi> whereby a Regulation of Trade was agreed to be ſettled, and adjuſted in the <hi>Eaſt-Indies,</hi> by certain Commiſſioners on both ſides.</p>
+            <p>Perſuant hereto, the 9th. of <hi>Feb.</hi> 1673. ſix Commiſſioners named by the King, entred into a Treaty, with Six ſent by the <hi>Dutch,</hi> at <hi>London,</hi> who were to ſettle the Regulations and adjuſt the Trade to the <hi>Eaſt-Indies</hi> in three Months time; and what was not ſettled in that time, was to be referred to the Queen Regent of <hi>Spain,</hi> who was to Name Eleven Commiſſioners, the Major part whereof was to deter<g ref="char:EOLhyphen"/>mine what was not ſettled; provided they gave their Judgment with<g ref="char:EOLhyphen"/>in Six Months to be computed from the time they met; which was to be within three Months after the Queen had taken this Award upon her. But tho' theſe Commiſſioners ſet more than three times the time limitted for Adjuſting the <hi>Eaſt-India</hi> Trade; <hi>viz.</hi> till the firſt of <hi>Dec.</hi> 1674. yet they concluded nothing in it, nor was ever any further Refe<g ref="char:EOLhyphen"/>rence to the Queen Regent of <hi>Spain.</hi>
+            </p>
+            <pb n="6" facs="tcp:30901:4"/>
+            <p>Thus this Prince <hi>Charles</hi> the Second having joined with the <hi>French</hi> in a War againſt the <hi>Dutch,</hi> to the Diſturbance of the peace of <hi>Chriſten<g ref="char:EOLhyphen"/>dom,</hi> becauſe of the <hi>Dutch</hi> Oppreſſions and Wrongs done the <hi>Engliſh</hi> in their Trades in the <hi>Eaſt Indies.</hi> Now to get 800000 Pa<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oons of the <hi>Dutch,</hi> and a round Sum of Money from the Parliament, makes a ſe<g ref="char:EOLhyphen"/>parate Peace with the <hi>Dutch,</hi> and leaves the <hi>Engliſh</hi> in their Trades to the <hi>Eaſt-Indies</hi> in the ſame ſtate it was before: And ſure the coſiderati<g ref="char:EOLhyphen"/>on hereof had been more worthy the wiſdom of the Commons, than their Debates Four Months together to Eſtabliſh an <hi>Eaſt-India</hi> Company excluſive to all others.</p>
+            <p>Nor can I imagine how this Intended Excluſive Company by the Commons, or any of the <hi>Engliſh</hi> Nation, can Trade to the <hi>Mogul</hi>'s or King of <hi>Syam</hi>'s Dominions, before the Differences made by this Companies War with them be Adjuſted; you cannot believe we have a true Repreſentation of them from the Company; nor do I be<g ref="char:EOLhyphen"/>lieve the Company themſelves underſtand them: And do you think the <hi>Mogull</hi> or King of <hi>Syam,</hi> will ſit down by the Loſs? Or that it is rea<g ref="char:EOLhyphen"/>ſonable, the Kings other Subjects, which the Company have denied the Benefit of the Trade to the <hi>Eaſt Indies,</hi> ſhould be liable to pay their Debts there; and make Reſtitution for all the Violences and Deprada<g ref="char:EOLhyphen"/>tions the Company have committed.</p>
+            <p>But admit the Company be in a condition to pay the Expence of this War, and their Debts contracted in it, which Mr. <hi>White</hi> computes to be Seventeen Hundred Thouſand Pounds; its probable the Company ha<g ref="char:EOLhyphen"/>ving ſpent all the Money there, muſt return it thither out of <hi>England;</hi> and I think at this time the Nation is not in a condition to part with ſuch a Sum; and ſ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> when theſe things had been Adjuſted, it had been time enough to have debated, whether the <hi>Eaſt India</hi> Trade might been better carried on by a Company excluſive to all others, or that it ſhould be free.</p>
+            <p>So I leave it to you to judge, whether it be not more to be wiſhed, that the King will pleaſe to Adjuſt and Regulate thee Trade of the <hi>Eaſt-Indies;</hi> eſpecially concerning the Trades to <hi>Amboyna, Poll<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> and <hi>Ban<g ref="char:EOLhyphen"/>tam;</hi> and ſend Ambaſſadors to the <hi>Mogull</hi> and King of <hi>Syam,</hi> to vin<g ref="char:EOLhyphen"/>dicate the reſt of the <hi>Engliſh</hi> Nation from the Violences and Rapines which the Company have committed upon their Subjects; and to inſpect the ſtate of Affairs in the <hi>Eaſt-Indies,</hi> as they now ſtand; and to enter into a Treaty of Commerce with the <hi>Sophy</hi> of <hi>Perſia, Mogull,</hi> the Empe<g ref="char:EOLhyphen"/>ror of <hi>China,</hi> and other Princes of the <hi>Eaſt-Indies,</hi> with whom the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> ſhall Trade; before he Erect any Company to Trade to all theſe Princes, and be thereby Liable to the Violences of the <hi>Dutch,</hi> and to make ſatisfaction for all the Debts and Depradations of the n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w Company.</p>
+            <pb n="67" facs="tcp:30901:4"/>
+            <p>I agree with you that the Company have no Right to the Half Cu<g ref="char:EOLhyphen"/>ſtoms of Goods vended in the Gulph of <hi>Perſia;</hi> nor that they ever paid any thing for them, yet more than double the worth of all the Joint<g ref="char:EOLhyphen"/>ſtock the Company imployed in this Trade to the <hi>Eaſt-Indies:</hi> And that theſe Cuſtoms ought to be imployed in Building Forts in proper places for ſecuring the <hi>Engliſh</hi> Traffick in thoſe Seas: And that when theſe Moneys are not ſo Imployed, they are due to the King.</p>
+            <p>We agree too, that the <hi>African</hi> Company is Injurious to the Nation in the Vent of our Native Commodities; and in our Trades to the Plan<g ref="char:EOLhyphen"/>tations; nor is this Company leſs injurious to the Nation in their re<g ref="char:EOLhyphen"/>turns: For a Worker in Ivory aſſured me within three days, that the Company has raiſed the prizes of Elephants Teeth, threefold more than when the Trade was free; and what is this but to impoſe a dear<g ref="char:EOLhyphen"/>neſs upon all Ivory Manufactures at Home, and to Eſtabliſh the For<g ref="char:EOLhyphen"/>reign Vent of them to the <hi>Dutch, French,</hi> and other Nations to our Loſs, and undoing of Thouſands of people, who other ways might be em<g ref="char:EOLhyphen"/>ployed in them. <hi>Ex ungue Leonem;</hi> by this you may judge of the reſt?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
